@@ -7,7 +7,6 @@ categories:
 tags: [Abbagio,R18]
 comments: true
 ---
-# In His Office(extra part)
 
 阿帕基钳住他的手腕按在盛放的花间，矢车菊嵌进乔鲁诺的金发中，如若不是阿帕基的听觉被他用舌尖勾出甜腻的呻吟占据，毋需屏气就能听到植物疯狂生长的窸窣声响。
 
