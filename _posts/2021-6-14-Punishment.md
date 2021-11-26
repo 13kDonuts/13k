@@ -4,7 +4,7 @@ title: Punishment
 date: 2021-06-14
 Author: 13k
 categories: 
-tags: [Abbaggio,R18]
+tags: [Abbagio,R18]
 comments: true
 ---
 # Punishment
