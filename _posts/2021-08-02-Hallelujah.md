@@ -7,7 +7,6 @@ categories:
 tags: [Abbagio]
 comments: true
 ---
-# Hallelujah
 
 “我想知道你为何处处针对他。”
 
