@@ -7,7 +7,6 @@ categories:
 tags: [Abbagio,R18]
 comments: true
 ---
-# Punishment
 
 “结、结束了吗，福......”
 
