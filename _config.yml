@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: 13k
-description: I’s Land
+description: Do not go gentle into that good night.
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -33,7 +33,7 @@ favicon: https://i.loli.net/2021/11/26/OGEX4QrzFpNeA1P.jpg
 navigation:
   - name: 首页
     url: /
-  - name: 关于
+  - name: 关于我
     url: /about
   - name: 归档
     url: /archive
@@ -48,20 +48,20 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo:  https://weibo.com/u/2579463125
+  weibo: https://weibo.com/u/2579463125
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: #youremailaddress@mail.com
+  email: 179355064@qq.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: https://github.com/13kDonuts
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  twitter: # https://www.twitter.com/<your_twitter_username> 
+  twitter: https://twitter.com/Giopudding_ 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
