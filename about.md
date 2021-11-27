@@ -4,7 +4,7 @@ title: 关于我
 permalink: /about/
 ---
 
-# * Welcome to I’s Land！*
+# Welcome to I’s Land！
 
 13k=13000，八九年前还是时三迁，由于太傻缺惨遭数字化
 
